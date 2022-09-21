@@ -1,0 +1,8 @@
+       {         "name" 
+           :
+    "zhangsan", "age":
+18,"score":[1,2,3,4,5,6],
+       "string": "'\"{{}{}}}t]]][[]:;,1.2345abcde\r\n\t'\"\"\\\f\\\"asdfasdf\"", "number": 3.141592
+
+       ,"object": {"A":1,"B":2, "C":      3, "Array": ["hello", {"world": 123}]}}
+
